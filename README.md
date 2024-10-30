@@ -4,7 +4,14 @@
 ### Hard
 
 - [] Iniciar a estrutura do (Html e Css).
-- [] Criar um 
+- [] Criar um Player de audio.
+- [] Fazer player tocar automaticamente quando abrir.
+- [] Remover player Automatico.
+- [] Inserir Dados via Js
+
+
+- []
+- []
 - []
 - []
 - []
