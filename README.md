@@ -3,11 +3,11 @@
 ### Moderate
 ### Hard
 
-- [] Iniciar a estrutura do (Html e Css).
-- [] Criar um Player de audio.
-- [] Fazer player tocar automaticamente quando abrir.
-- [] Remover player Automatico.
-- [] Inserir Dados via Js
+- [x] Iniciar a estrutura do (Html e Css).
+- [x] Criar um Player de audio.
+- [x] Fazer player tocar automaticamente quando abrir.
+- [x] Remover player Automatico.
+- [x] Inserir Dados via Js
 
 
 - []
