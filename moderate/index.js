@@ -1,6 +1,6 @@
 // carregamneto da aplicação antecipação.
 window.addEventListener("load", () => {
-player.start
+this.start
 });
 
 const path = function (file) {

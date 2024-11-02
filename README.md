@@ -1,17 +1,17 @@
-# Trabalhando com HTML Audio e JS
-## PLayer Song
-### Moderate
-### Hard
 
-- [x] Iniciar a estrutura do (Html e Css).
-- [x] Criar um Player de audio.
-- [x] Fazer player tocar automaticamente quando abrir.
-- [x] Remover player Automatico.
-- [x] Inserir Dados via Js
+# Imagem do Projeto
+![imagem do projeto](./base/files/mobile%20.png "")
 
 
-- [x] Refatorar: criar objeto para guardar o estado funções configs da aplicação
-- [x] Quando o audio finalizar, iniciar o proximo  da lista
-- []
-- []
-- []
+
+Um simples music player, JS puro!
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+
+
+
