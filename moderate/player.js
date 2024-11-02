@@ -1,18 +1,21 @@
+
+// criative object JS
 const player = {
   title: document.querySelector(".card-content h5"),
   artist: document.querySelector(".artist"),
   cover: document.querySelector(".card-image"),
   audio: document.querySelector("audio"),
-  data: {
-    title: "SEX MACHINE",
-    artist: "James Brown",
-    cover: "files/1.png",
-    file: "files/Sexmachine.mp3",
-  },
+  audioData: audios,
+  currentAudio: {},
   start() {
-    player.cover.style.background = `url('${player.data.cover}') no-repeat center center / cover`
-    player.title.innerText = player.data.title
-    player.artist.innerText = player.data.artist
-    player.audio.src = player.data.file
+    player.currentAudio = player.audioData[0];
+    player.cover.style.background = `url('${path(player.currentAudio.cover)}') no-repeat center center / cover`
+    player.title.innerText = player.currentAudio.title
+    player.artist.innerText = player.currentAudio.artist
+    player.audio.src = path(player.currentAudio.file);
+    player.audio.addEventListener("ended",() => {
+      
+    } )
   },
 }
+// end Object

@@ -10,8 +10,8 @@
 - [x] Inserir Dados via Js
 
 
-- [] Refatorar: criar objeto para guardar o estado funções configs da aplicação
-- [] Quando o audio finalizar, iniciar o proximo  da lista
+- [x] Refatorar: criar objeto para guardar o estado funções configs da aplicação
+- [x] Quando o audio finalizar, iniciar o proximo  da lista
 - []
 - []
 - []
